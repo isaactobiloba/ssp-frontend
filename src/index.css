@@ -12,29 +12,6 @@ code {
     monospace;
 }
 
-.trigger {
-  padding: 0 24px;
-  font-size: 18px;
-  line-height: 64px;
-  cursor: pointer;
-  transition: color 0.3s;
-}
-
-.trigger:hover {
-  color: #1890ff;
-}
-
-.logo {
-  padding: 20px 10px;
-  height: auto;
-  margin: auto;
-  color: #fff;
-  text-transform: capitalize;
-  font-weight: 600;
-  font-size: 16px;
+thead{
   background: #001529;
-}
-
-.site-layout .site-layout-background {
-  background: #fff;
 }
