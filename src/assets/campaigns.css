@@ -28,3 +28,15 @@
 .trigger:hover {
   color: #1890ff;
 }
+
+.warning {
+  background: #ffb300;
+  border: 1px solid #ffb300;
+}
+
+.warning:hover, .warning:focus {
+  color: #fff;
+  border-color: #ffb300;
+  background: #fcc034;
+  border: 1px solid #fcc034;
+}
